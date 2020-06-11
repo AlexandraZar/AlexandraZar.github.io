@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -972,7 +972,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "приложение&nbsp;",
+        "title": "Скачать приложение&amp;nbsp;",
         "order": 2
       },
       "components": [
@@ -1503,7 +1503,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "Ваши работы",
+        "title": "Сделай все правильно!",
         "order": 1
       },
       "components": [
